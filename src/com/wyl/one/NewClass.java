@@ -6,4 +6,5 @@ package com.wyl.one;
 public class NewClass {
 
     //hello world!
+    //This is a new start
 }
